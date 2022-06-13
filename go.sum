@@ -23,6 +23,8 @@ github.com/mattn/go-isatty v0.0.14 h1:yVuAays6BHfxijgZPzw+3Zlu5yQgKGP2/hcQbHb7S9
 github.com/mattn/go-isatty v0.0.14/go.mod h1:7GGIvUiUoEMVVmxf/4nioHXj79iQHKdU27kJ6hsGG94=
 github.com/moznion/go-optional v0.3.0 h1:gq1hYMVcJKmLPrRrhdG6FvJ+f21t55ynvLjN4myreCg=
 github.com/moznion/go-optional v0.3.0/go.mod h1:9NvjaXKTDahrG6bDlHxNYzSL8DQ5MX/MgLXqzS5t6Fs=
+github.com/moznion/go-optional v0.4.0 h1:4ltMmxgd7Gx2QET3c7g+KHCPhLONusXgDKqeJS2Ksjg=
+github.com/moznion/go-optional v0.4.0/go.mod h1:9NvjaXKTDahrG6bDlHxNYzSL8DQ5MX/MgLXqzS5t6Fs=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
