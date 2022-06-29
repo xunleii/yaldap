@@ -8,7 +8,7 @@ require (
 	github.com/go-ldap/ldap/v3 v3.4.3
 	github.com/jimlambrt/gldap v0.1.2-0.20220601131836-ca63fe26ae66
 	github.com/moznion/go-optional v0.3.0
-	github.com/stretchr/testify v1.7.2
+	github.com/stretchr/testify v1.8.0
 	golang.org/x/exp v0.0.0-20220609121020-a51bd0440498
 	gopkg.in/yaml.v3 v3.0.1
 )
